@@ -1,0 +1,13 @@
+body{
+  background-color: pink;
+  color: black;
+}
+
+.form,
+.greetings{
+  display: none;
+}
+
+.showing{
+  display: block;
+}
